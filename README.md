@@ -40,26 +40,32 @@ This project is an implementation of an automata simulator that enables users to
 ## How to Run the Project
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone <repository-url>
    ```
 2. Navigate to the project directory:
   ```
-  bash
   Copy code
   cd <project-directory> 
   ```
 3. Compile the Java files:
   ```
-  bash
   Copy code
   javac Main.java Automate.java
   ```
 4. Run the program:
   ```
-  bash
   Copy code
   java Main
   ```
 5. Follow the prompts to select an automaton and enter a binary string.
+
+## Requirements
+
+- Java Development Kit (JDK) version 8 or later
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
 
