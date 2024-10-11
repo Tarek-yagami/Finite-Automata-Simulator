@@ -45,17 +45,14 @@ This project is an implementation of an automata simulator that enables users to
    ```
 2. Navigate to the project directory:
   ```
-  Copy code
   cd <project-directory> 
   ```
 3. Compile the Java files:
   ```
-  Copy code
   javac Main.java Automate.java
   ```
 4. Run the program:
   ```
-  Copy code
   java Main
   ```
 5. Follow the prompts to select an automaton and enter a binary string.
